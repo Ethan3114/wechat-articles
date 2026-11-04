@@ -4,6 +4,7 @@ Synced at: 2026-11-03T16:15:28+08:00 (Asia/Shanghai)
 
 | Title | File | Feishu |
 | --- | --- | --- |
+| 国内AI大厂还在圈地打架，聪明人已经开始组合白嫖云电脑和云手机了 | [articles/2026-11-04-ai-giants-cloud-pc-phone-combo.md](articles/2026-11-04-ai-giants-cloud-pc-phone-combo.md) | - |
 | 腾讯这份 AGENTS.md，写出了普通人使用 AI 的五个坑 | [articles/2026-10-26-tencent-agents-md-five-pitfalls.md](articles/2026-10-26-tencent-agents-md-five-pitfalls.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/KCuuwg6PHiTQImkiIE0cReSBnae) |
 | 字节：翻译翻译，什么叫 Personal Agent？ | [articles/2026-11-02-bytedance-personal-agent.md](articles/2026-11-02-bytedance-personal-agent.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/COugw851PijHsfkkOOAcB8dzn8b) |
 | 苹果的中国 AI 困局：谈了一圈，为什么是千问？ | [articles/2026-11-01-apple-china-ai-qwen.md](articles/2026-11-01-apple-china-ai-qwen.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/EuZSwovLgimYxFkLvUTcCVQpnch) |
