@@ -1,9 +1,10 @@
 # 微信文章存档（来自飞书「个媒」同步）
 
-此仓库用于存放从飞书知识库「个媒」导出的微信文章 Markdown。当前包含 10 篇文章，内容均为原样拷贝，仅调整为仓库内的文件路径，便于本地浏览与版本管理。
+此仓库用于存放从飞书知识库「个媒」导出的微信文章 Markdown。当前包含 11 篇文章，内容均为原样拷贝，仅调整为仓库内的文件路径，便于本地浏览与版本管理。
 
 ## 文章索引
 
+- [腾讯混元登顶开源榜，当主推的视觉操作撞上无障碍黑科技，能靠WorkBuddy逆袭阿里吗](articles/2026-11-06-tencent-hunyuan-workbuddy-vs-alibaba.md)
 - [国内AI大厂还在圈地打架，聪明人已经开始组合白嫖云电脑和云手机了](articles/2026-11-04-ai-giants-cloud-pc-phone-combo.md)
 - [腾讯这份 AGENTS.md，写出了普通人使用 AI 的五个坑](articles/2026-10-26-tencent-agents-md-five-pitfalls.md)
 - [字节：翻译翻译，什么叫 Personal Agent？](articles/2026-11-02-bytedance-personal-agent.md)
