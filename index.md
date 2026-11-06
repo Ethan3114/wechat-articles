@@ -1,10 +1,10 @@
 # WeChat articles export (Feishu「个媒」)
 
-Synced at: 2026-11-06T04:10:58+08:00 (Asia/Shanghai)
+Synced at: 2026-11-06T10:53:13+08:00 (Asia/Shanghai)
 
 | Title | File | Feishu |
 | --- | --- | --- |
-| 腾讯混元登顶开源榜，当主推的视觉操作撞上无障碍黑科技，能靠WorkBuddy逆袭阿里吗 | [articles/2026-11-06-tencent-hunyuan-workbuddy-vs-alibaba.md](articles/2026-11-06-tencent-hunyuan-workbuddy-vs-alibaba.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/GsSYw1Tb0i5DvrkXoGjcMOIen0g) |
+| 腾讯混元冲上开源榜，WorkBuddy 能撼动阿里的企业市场吗？ | [articles/2026-11-06-tencent-hunyuan-workbuddy-vs-alibaba.md](articles/2026-11-06-tencent-hunyuan-workbuddy-vs-alibaba.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/GsSYw1Tb0i5DvrkXoGjcMOIen0g) |
 | 国内AI大厂还在圈地打架，聪明人已经开始组合白嫖云电脑和云手机了 | [articles/2026-11-04-ai-giants-cloud-pc-phone-combo.md](articles/2026-11-04-ai-giants-cloud-pc-phone-combo.md) | - |
 | 腾讯这份 AGENTS.md，写出了普通人使用 AI 的五个坑 | [articles/2026-10-26-tencent-agents-md-five-pitfalls.md](articles/2026-10-26-tencent-agents-md-five-pitfalls.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/KCuuwg6PHiTQImkiIE0cReSBnae) |
 | 字节：翻译翻译，什么叫 Personal Agent？ | [articles/2026-11-02-bytedance-personal-agent.md](articles/2026-11-02-bytedance-personal-agent.md) | [feishu](https://bcny8b8p30jb.feishu.cn/wiki/COugw851PijHsfkkOOAcB8dzn8b) |
