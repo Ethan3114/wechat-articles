@@ -1,9 +1,10 @@
 # 微信文章存档（来自飞书「个媒」同步）
 
-此仓库用于存放从飞书知识库「个媒」导出的微信文章 Markdown。当前包含 12 篇文章，内容均为原样拷贝，仅调整为仓库内的文件路径，便于本地浏览与版本管理。
+此仓库用于存放从飞书知识库「个媒」导出的微信文章 Markdown。当前包含 13 篇文章，内容均为原样拷贝，仅调整为仓库内的文件路径，便于本地浏览与版本管理。
 
 ## 文章索引
 
+- [四天追平龙虾，大厂为什么不敢先动筷子](articles/2026-11-11-agent-catch-up.md)
 - [龙虾突然撕掉单人标签，整个科技圈的Agent可能都要换一种活法](articles/2026-11-06-openclaw-multiplayer-agent.md)
 - [腾讯混元冲上开源榜，WorkBuddy 能撼动阿里的企业市场吗？](articles/2026-11-06-tencent-hunyuan-workbuddy-vs-alibaba.md)
 - [国内AI大厂还在圈地打架，聪明人已经开始组合白嫖云电脑和云手机了](articles/2026-11-04-ai-giants-cloud-pc-phone-combo.md)
